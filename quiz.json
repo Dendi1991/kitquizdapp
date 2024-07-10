@@ -1,19 +1,79 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of gaming history.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is the first home video game console?",
+      "answers": ["Odyssey", "Atari", "NES"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who created Mario?",
+      "answers": ["Nintendo", "Sega", "Atari"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What game popularized battle royale?",
+      "answers": ["Fortnite", "PUBG", "Apex"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who developed 'Pac-Man'?",
+      "answers": ["Namco", "Atari", "Capcom"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the best-selling console?",
+      "answers": ["PS2", "Xbox", "Wii"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created 'Doom'?",
+      "answers": ["id", "Valve", "Epic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was the NES released?",
+      "answers": ["1985", "1983", "1987"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the first 3D platformer?",
+      "answers": ["Mario64", "Crash", "Spyro"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What game started the FPS genre?",
+      "answers": ["Doom", "Wolf3D", "Quake"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who developed 'Sonic'?",
+      "answers": ["Sega", "Nintendo", "Atari"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What game had the first Easter egg?",
+      "answers": ["Adventure", "Pong", "Mario"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who developed 'Minecraft'?",
+      "answers": ["Mojang", "Valve", "Epic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the first MMO?",
+      "answers": ["Ultima", "EQ", "WOW"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created 'Tetris'?",
+      "answers": ["Pajitnov", "Miyamoto", "Nolan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What game is considered the first RPG?",
+      "answers": ["Ultima", "Wizardry", "Zork"],
       "correctAnswerIndex": 0
     }
   ]
